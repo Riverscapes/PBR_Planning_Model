@@ -1,10 +1,10 @@
 ---
-title: My Homepage
+title: Homepage
 weight: 1
 ---
 
-This is your homepage Elit occaecat veniam nulla commodo aliqua ut sunt. Cupidatat occaecat sunt do do eiusmod id nostrud tempor quis dolor elit anim deserunt. Incididunt magna magna nostrud nulla in duis.
+## A Practical Restoration Model for Restoring the Sprague River Valley
 
-Enim mollit culpa eu sint velit occaecat ullamco reprehenderit dolor eu esse do officia reprehenderit. Nisi quis Lorem ex commodo officia ipsum. Et pariatur mollit sit cupidatat incididunt incididunt commodo excepteur esse Lorem labore nostrud non.
+The PBR planning model was developed to assist the Partners for Fish and Wildlife Program in prioritizing processed based restoration projects in the Sprague River watershed in the southern Oregon Cascades. The Sprague River has a significant amount of floodplain levees and irrigation ditches which have disrupted floodplain and channel connectivity important for fish habitat. The model identifies floodplain spaces disconnected by infrastructure versus areas disconnected by incision alone. In doing so it provides practitioners with a planning tool to prioritize where to modify or remove infrastructure (e.g. levees or ditches) versus opportunities to apply “low-tech” approaches of installing wood structure delineated by the Beaver Restoration Assessment Tool.
 
-Labore dolor aute in eu labore ad. Ullamco velit sit veniam qui nulla cupidatat incididunt aliquip qui ea duis nisi ipsum sit. Do incididunt id veniam esse. Aute eiusmod do incididunt dolore elit aute veniam in et magna pariatur reprehenderit. Aliquip incididunt sit officia excepteur voluptate Lorem dolore cillum non nulla culpa sint non.
+This was a collaborative effort between the U.S. Fish and Wildlife Service and Utah State University.
