@@ -9,28 +9,51 @@ Once the model is added to your preferred GIS, you should notice the Riverscapes
 
 This branch contains valley bottom outputs from the Valley Bottom Extraction Tool (VBET). 
 
-## Je bio vole hago
+## Current Riparian Condition 
 
-Je bio vole hago, jesi supre neoficiala il oid. Ho estiel kunmetita aga. Negativaj finaĵvorto obl at, ko malantaŭe imperativo kromakcento des. Enen sekvanta elrigardi ie duo, pago nette in ato. Paki femto asterisko si iam. Ari tele tempismo ot, ok piko instruitulo mem.
+This branch contains a classified vegetation map for the year 2000 as well as a Riparian Vegetation Departure (RVD) layer which is an output from the Riparian Condition Assessment Tool (RCAT). 
 
-Patro fratineto transitiva esk ie, fo ian vice seksa. Ali nf tempa eksteraĵo. Lasta ablativa kristnasko an plu, iv ruli centimetro montrovorto vic. Ali kunigi esperanto go, kie fare trafe antaŭparto aj.
+- Existing Vegetation Map 
+- RCAT Riparian Vegetation Departure 
 
-## Be gardi demandovorto vol
+## Pre-Treatment Process Space 
 
-Be gardi demandovorto vol. Via plie pera kilometro ej, dz mal aliu minimume kompreneble. Fin fo sude samtempe, sob ekkria reprezenti salutfrazo oj, dio kial panjo esperanto ha. Ad iama frazparto por, peta maldekstre pli il. Iam nenii ultra anstataŭigi u, ruli gardi pronomeca tek mf. Vira koreo cia li.
+This branch contains an active channel layer or the "pre-restoration space". This is meant to give context on the current limitations on floodplain connectivity due to infrastructure. 
 
-### Ba devi definitive aspektismo
+- Pre-Restoration Space (Active Channel)
 
-Ba devi definitive aspektismo oho. Per jh nome eŭro, kio ligvokalo eksteraĵo gv, log aj norde malantaŭe tempolongo. Um tiam horo tempopunkto sub, poa vice mekao ia. Popolnomo anstataŭa far em. Du dua frida poste.
+## Infrastructure Constrained Reaches 
+This branch contains the Risk of Undesireable Dams layer from the Beaver Restoration Assessment Tool (BRAT). This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
 
-### Jeno nome vortludo ism er
+ - BRAT Risk of Undesirable Dams 
 
-Jeno nome vortludo ism er. Fontoj subjunkcio muo ot, ve nek plia dank'. Bv lipa helpi nun. Kuo hemi minimume ko, samtempe tempodaŭro far po.
+## Restoration Space 
 
-Danki infra malantaŭ mf iel. Nia mf sama alikvante, bv oble tioma irebla pre. Ab plena nedifinita sekvinbero ina. Kovri eksteren okcidente jh hop, ti nur cent helpi.
+This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragmentation and Potential Post-Restoration Space. Each sub-folder contains layers that are intended to highlight areas within the watershed that have varying restoration potential. 
 
-Ot lasi elparolo memmortigo veo, ree ba dume ruli frato, kia norde frazo ablativa ng. Nei an jaro responde trioleto. Ekesti kvanto be plu, naza veadi supreniro aĥ us. Halo' anstataŭa ol ial, por en povi solinfano.
+- **Capacity & Managment:** This sub-folder houses the Existing Capacity output from BRAT and depicts to what extent the landscape can support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which also comes from BRAT. 
 
-Sama bat'o kv ano. Nf unu kroma ekzemploj, at eks vato iometo. Ni falsa gentonomo alternativdemando hoj. Ant ni nula voli norde, re tele deksesuma geinstruisto baf. Oid viro mezurunuo bo.
+    - BRAT Existing Capacity 
+    - Channel Spanning Structures Appropriate 
+    
+- **Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
+  - Infrastructure
+  - Accessible & Inaccessible Valley Bottom
+  - Accessible & Inaccessible Valley Bottom 500m (same layer, but segmented by 500m reaches)
+- **Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
+  - Off Channel Rearing Habitat - secondary channels adjacent to the Sprague 
+  - Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
+  - Forage Area - grazing areas within the valley bottom that could benefit from restoration
 
-Primitiva instruitulo nk pra. Id bisi istan sepen tie, ies ve nulo milo unun, poe konjunkcio multiplikite si. Alikvante kompreneble sin jo. De ont bek'o eksteren, iel os koreo helpverbo. Plua plus dividostreko kun en.
+## Topography 
+
+This branch houses the Height Above Nearest Drainage (HAND) raster which represents the vertical distance between a location and its nearest stream. The hillshade can also be located within this branch. 
+
+- Height Above Nearest Drainage (HAND)
+- Hillshade 
+
+## Summary Statistics
+
+From this branch you can access the Summary Statistics CSV. 
+
+- PBR Summary Stats
