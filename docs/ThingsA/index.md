@@ -1,5 +1,5 @@
 ---
-title: ThingsA Riverscapes Consortium
+title: Data Acquisition 
 weight: 1
 ---
 
