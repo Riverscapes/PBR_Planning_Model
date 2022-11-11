@@ -34,18 +34,18 @@ This branch contains the Risk of Undesireable Dams layer from the Beaver Restora
 
 This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragmentation and Potential Post-Restoration Space. Each sub-folder contains layers that are intended to highlight areas within the watershed that have varying restoration potential. 
 
-1. **Capacity & Managment:** This sub-folder houses the Existing Capacity output from BRAT and depicts to what extent the landscape can support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which also comes from BRAT. 
+**Capacity & Managment:** This sub-folder houses the Existing Capacity output from BRAT and depicts to what extent the landscape can support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which also comes from BRAT. 
 
    - BRAT Existing Capacity 
    - Channel Spanning Structures Appropriate 
     
-2. **Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
+**Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
  
    - Infrastructure
    - Accessible & Inaccessible Valley Bottom
    - Accessible & Inaccessible Valley Bottom 500m (same layer, but segmented by 500m reaches)
  
-3. **Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
+**Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
 
    - Off Channel Rearing Habitat - secondary channels adjacent to the Sprague 
    - Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
