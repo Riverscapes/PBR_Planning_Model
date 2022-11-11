@@ -34,7 +34,7 @@ This branch contains the Risk of Undesireable Dams layer from the Beaver Restora
 
 This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragmentation and Potential Post-Restoration Space. Each sub-folder contains layers that are intended to highlight areas within the watershed that have varying restoration potential. 
 
-**Capacity & Managment:** This sub-folder houses the Existing Capacity output from BRAT and depicts to what extent the landscape can support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which also comes from BRAT. 
+**Capacity & Managment:** This sub-folder houses the Existing Capacity layer which estimates the landscapes ability to support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which identifies the effort it would take to establish beaver dams and/or beaver dam analogs (BDAs) on the landscape. Both layers are BRAT outputs. 
 
    - BRAT Existing Capacity 
    - Channel Spanning Structures Appropriate 
