@@ -36,27 +36,27 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 
 - **Capacity & Managment:** This sub-folder houses the Existing Capacity output from BRAT and depicts to what extent the landscape can support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which also comes from BRAT. 
 
-    -BRAT Existing Capacity 
-    -Channel Spanning Structures Appropriate 
+   1. BRAT Existing Capacity 
+   2. Channel Spanning Structures Appropriate 
     
 - **Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
  
-  -Infrastructure
-  -Accessible & Inaccessible Valley Bottom
-  -Accessible & Inaccessible Valley Bottom 500m (same layer, but segmented by 500m reaches)
+  1. Infrastructure
+  2. Accessible & Inaccessible Valley Bottom
+  3. Accessible & Inaccessible Valley Bottom 500m (same layer, but segmented by 500m reaches)
  
 - **Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
 
-  -Off Channel Rearing Habitat - secondary channels adjacent to the Sprague 
-  -Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
-  -Forage Area - grazing areas within the valley bottom that could benefit from restoration
+  1. Off Channel Rearing Habitat - secondary channels adjacent to the Sprague 
+  2. Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
+  3. Forage Area - grazing areas within the valley bottom that could benefit from restoration
 
 ## Topography 
 
 This branch houses the Height Above Nearest Drainage (HAND) raster which represents the vertical distance between a location and its nearest stream. The hillshade can also be located within this branch. 
 
-- Height Above Nearest Drainage (HAND)
-- Hillshade 
+  - Height Above Nearest Drainage (HAND)
+  - Hillshade 
 
 ## Summary Statistics
 
