@@ -36,8 +36,8 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 
 - **Capacity & Managment:** This sub-folder houses the Existing Capacity output from BRAT and depicts to what extent the landscape can support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which also comes from BRAT. 
 
- 1. BRAT Existing Capacity 
- 2. Channel Spanning Structures Appropriate 
+  1. BRAT Existing Capacity 
+  2. Channel Spanning Structures Appropriate 
     
 - **Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
  
