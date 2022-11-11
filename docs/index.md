@@ -9,4 +9,4 @@ The PBR planning model was developed to assist the Partners for Fish and Wildlif
 
 This was a collaborative effort between the U.S. Fish and Wildlife Service and Utah State University.
 
-![ET-AL](assets/images/EcoLab_whiteblue-02.png "ET-AL") ![USFW](assets/images/US-FWS-logo.png "USFW")
+<img src="https://github.com/Riverscapes/PBR_Planning_Model/blob/main/docs/assets/images/EcoLab_whiteblue-02.png" width="250" height="150">     <img src="https://github.com/Riverscapes/PBR_Planning_Model/blob/main/docs/assets/images/US-FWS-logo.png" width="150" height="150">
