@@ -9,4 +9,4 @@ The PBR planning model was developed to assist the Partners for Fish and Wildlif
 
 This was a collaborative effort between the U.S. Fish and Wildlife Service and Utah State University.
 
-![ET-AL](docs/assets/images/EcoLab_whiteblue-02.png "ET-AL")  ![USFW](docs/assets/images/US-FWS-logo.png "USFW")
+[![](docs/assets/images/EcoLab_whiteblue-02.png "ET-AL")]  [![USFW](docs/assets/images/US-FWS-logo.png "USFW")]
