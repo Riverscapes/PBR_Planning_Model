@@ -12,12 +12,19 @@ This branch contains valley bottom outputs from the Valley Bottom Extraction Too
 - Valley Bottom (filled)
 - Valley Bottom (hollow)
 
+<img src="{{ site.baseurl }}/assets/images/VB.png" width="250">
+
 ## Current Riparian Condition 
 
 This branch contains a classified vegetation map for the year 2000 as well as a Riparian Vegetation Departure (RVD) layer which is an output from the Riparian Condition Assessment Tool (RCAT). 
 
 - Existing Vegetation Map 
+
+<img src="{{ site.baseurl }}/assets/images/VegMap2000.png" width="250">
+
 - RCAT Riparian Vegetation Departure 
+
+<img src="{{ site.baseurl }}/assets/images/RVD.png" width="250">
 
 ## Pre-Treatment Process Space 
 
@@ -25,10 +32,14 @@ This branch contains an active channel layer or the "pre-restoration space". Thi
 
 - Pre-Restoration Space (Active Channel)
 
+<img src="{{ site.baseurl }}/assets/images/ActiveChannel.png" width="250">
+
 ## Infrastructure Constrained Reaches 
 This branch contains the Risk of Undesireable Dams layer from the Beaver Restoration Assessment Tool (BRAT). This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
 
  - BRAT Risk of Undesirable Dams 
+
+<img src="{{ site.baseurl }}/assets/images/Risk.png" width="250">
 
 ## Restoration Space 
 
@@ -37,13 +48,23 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 **Capacity & Managment:** This sub-folder houses the Existing Capacity layer which estimates the landscapes ability to support beaver dam building activity. The folder also contains the "Channel Spanning Structures Appropriate" layer which identifies the effort it would take to establish beaver dams and/or beaver dam analogs (BDAs) on the landscape. Both layers are BRAT outputs. 
 
    - BRAT Existing Capacity 
+
+<img src="{{ site.baseurl }}/assets/images/ExistingCap.png" width="250">
+
    - Channel Spanning Structures Appropriate 
+
+<img src="{{ site.baseurl }}/assets/images/StrucApprop.png" width="250">
     
 **Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
  
    - Infrastructure
+
+<img src="{{ site.baseurl }}/assets/images/Infrastructure.png" width="250">
+
    - Accessible & Inaccessible Valley Bottom
    - Accessible & Inaccessible Valley Bottom 500m (same layer, but segmented by 500m reaches)
+
+<img src="{{ site.baseurl }}/assets/images/Accessible_VB.png" width="250">
  
 **Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
 
@@ -51,12 +72,16 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
    - Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
    - Forage Area - grazing areas within the valley bottom that could benefit from restoration
 
+<img src="{{ site.baseurl }}/assets/images/Post_Restore.png" width="250">
+
 ## Topography 
 
 This branch houses the Height Above Nearest Drainage (HAND) raster which represents the vertical distance between a location and its nearest stream. The hillshade can also be located within this branch. 
 
   - Height Above Nearest Drainage (HAND)
   - Hillshade 
+
+<img src="{{ site.baseurl }}/assets/images/HAND.png" width="250">
 
 ## Summary Statistics
 
