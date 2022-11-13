@@ -3,7 +3,7 @@ title: Project Tree
 weight: 1
 ---
 
-<img class="float-right" src="{{ site.baseurl }}/assets/images/tree.PNG" height="125"> Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
+<img class="float-right" src="{{ site.baseurl }}/assets/images/tree.PNG" height="100"> Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
 
 ## Valley Bottom 
 
@@ -12,7 +12,7 @@ This branch contains valley bottom outputs from the Valley Bottom Extraction Too
 - Valley Bottom (filled)
 - Valley Bottom (hollow)
 
-<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450">
+<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VB_leg.PNG" width="250">
 
 ## Current Riparian Condition 
 
