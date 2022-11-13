@@ -12,7 +12,7 @@ This branch contains valley bottom outputs from the Valley Bottom Extraction Too
 - Valley Bottom (filled)
 - Valley Bottom (hollow)
 
-<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VB_leg.png" width="250">
+<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VB_leg.PNG" width="250">
 
 ## Current Riparian Condition 
 
