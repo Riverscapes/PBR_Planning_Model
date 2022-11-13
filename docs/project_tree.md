@@ -3,7 +3,7 @@ title: Project Tree
 weight: 1
 ---
 
-Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
+<img class="float-left" src="{{ site.baseurl }}/assets/images/tree.PNG">Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
 
 ## Valley Bottom 
 
