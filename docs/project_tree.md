@@ -20,7 +20,7 @@ This branch contains a classified vegetation map for the year 2000 as well as a 
 
 - Existing Vegetation Map 
 
-<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.PNG" width="250">
+<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.png" width="250">
 
 - RCAT Riparian Vegetation Departure 
 
