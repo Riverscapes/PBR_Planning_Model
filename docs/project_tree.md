@@ -24,7 +24,7 @@ This branch contains a classified vegetation map for the year 2000 as well as a 
 
 - RCAT Riparian Vegetation Departure 
 
-<img src="{{ site.baseurl }}/assets/images/RVD.png" width="450"><img src="{{ site.baseurl }}/assets/images/RVD_leg.PNG" width="250">
+<img src="{{ site.baseurl }}/assets/images/RVD.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/RVD_leg.png" width="250">
 
 ## Pre-Treatment Process Space 
 
