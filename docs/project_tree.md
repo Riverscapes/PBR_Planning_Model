@@ -32,7 +32,7 @@ This branch contains an active channel layer or the "pre-restoration space". Thi
 
 - Pre-Restoration Space (Active Channel)
 
-<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="350">
+<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="200">
 
 ## Infrastructure Constrained Reaches 
 This branch contains the Risk of Undesireable Dams layer from the Beaver Restoration Assessment Tool (BRAT). This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
