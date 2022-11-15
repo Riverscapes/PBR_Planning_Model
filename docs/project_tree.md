@@ -3,7 +3,7 @@ title: Project Tree
 weight: 1
 ---
 
-<img class="float-right" src="{{ site.baseurl }}/assets/images/tree.PNG" width="270"> Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
+<img class="float-right" src="{{ site.baseurl }}/assets/images/tree.PNG" width="300"> Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
 
 ## Valley Bottom 
 
@@ -39,7 +39,7 @@ This branch contains the Risk of Undesireable Dams layer from the Beaver Restora
 
  - BRAT Risk of Undesirable Dams 
 
-<img src="{{ site.baseurl }}/assets/images/Risk.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Risk_leg.PNG" width="235">
+<img src="{{ site.baseurl }}/assets/images/Risk.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Risk_leg.PNG" width="200">
 
 ## Restoration Space 
 
@@ -49,11 +49,11 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 
    - BRAT Existing Capacity 
 
-<img src="{{ site.baseurl }}/assets/images/ExistingCap.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ExistingCap_leg.png" width="385">
+<img src="{{ site.baseurl }}/assets/images/ExistingCap.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ExistingCap_leg.png" width="250">
 
    - Channel Spanning Structures Appropriate 
 
-<img src="{{ site.baseurl }}/assets/images/StrucApprop.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/StrucApprop_leg.png" width="385">
+<img src="{{ site.baseurl }}/assets/images/StrucApprop.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/StrucApprop_leg.png" width="250">
     
 **Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
  
