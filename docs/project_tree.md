@@ -12,7 +12,7 @@ This branch contains valley bottom outputs from the Valley Bottom Extraction Too
 - Valley Bottom (filled)
 - Valley Bottom (hollow)
 
-<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VB_leg.PNG" width="250">
+<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VB_leg.PNG" width="200">
 
 ## Current Riparian Condition 
 
@@ -20,7 +20,7 @@ This branch contains a classified vegetation map for the year 2000 as well as a 
 
 - Existing Vegetation Map 
 
-<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.png" width="235">
+<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.png" width="200">
 
 - RCAT Riparian Vegetation Departure 
 
@@ -32,14 +32,14 @@ This branch contains an active channel layer or the "pre-restoration space". Thi
 
 - Pre-Restoration Space (Active Channel)
 
-<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="200">
+<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="220">
 
 ## Infrastructure Constrained Reaches 
 This branch contains the Risk of Undesireable Dams layer from the Beaver Restoration Assessment Tool (BRAT). This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
 
  - BRAT Risk of Undesirable Dams 
 
-<img src="{{ site.baseurl }}/assets/images/Risk.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Risk_leg.PNG" width="200">
+<img src="{{ site.baseurl }}/assets/images/Risk.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Risk_leg.PNG" width="115">
 
 ## Restoration Space 
 
