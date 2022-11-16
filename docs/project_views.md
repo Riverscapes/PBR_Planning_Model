@@ -10,7 +10,7 @@ Project Views are pre-loaded combinations of layers that can be added to the map
 
 The default project view is the Valley Bottom Accessibility view. This project view gives context to the extent of floodplain disconnection along the Sprague due to infrastructure. Layers included are Infrastructure and Valley Bottom Accessibility. 
 
-<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/PV1.PNG" width="450">
+<img src="{{ site.baseurl }}/assets/images/PV1.PNG" width="450">
 
 ## Pre to Post-Restoration 
 
