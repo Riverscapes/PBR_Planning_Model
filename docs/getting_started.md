@@ -34,6 +34,6 @@ map by using the RAVE toolbar.
 Simply select the green plus icon and navigate to the project.rs file found within the 
 downloaded PBR model folder.
 
-<img src="{{ site.baseurl }}/assets/images/folder.PNG" width="450">
+<img src="{{ site.baseurl }}/assets/images/folder.PNG" width="500">
 
 
