@@ -22,12 +22,18 @@ found here: https://riverscapes.net/Data_Warehouses/#riverscape-warehouseconcep
 
 2. Once an account has been created navigate to https://data.riverscapes.net/#/UKUSFWS
 and select PBR from the Project Type dropdown. From here you can download the
-model by selecting the <img src="{{ site.baseurl }}/assets/images/download.PNG" width="50">  icon or view it via WebRAVE using the <img src="{{ site.baseurl }}/assets/images/view.PNG" width="50">  icon.
+model by selecting the <img src="{{ site.baseurl }}/assets/images/download.PNG" width="25">  icon or view it via WebRAVE using the <img src="{{ site.baseurl }}/assets/images/view.PNG" width="20">  icon.
 
 ## Data Visualization 
 
 Once RAVE has been installed and the model has been downloaded, you can add the data to a 
 map by using the RAVE toolbar. 
+
+<img src="{{ site.baseurl }}/assets/images/RVTool.PNG" width="150">
+
 Simply select the green plus icon and navigate to the project.rs file found within the 
 downloaded PBR model folder.
+
+<img src="{{ site.baseurl }}/assets/images/folder.PNG" width="450">
+
 
