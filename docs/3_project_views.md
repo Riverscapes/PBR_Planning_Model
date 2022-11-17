@@ -1,5 +1,5 @@
 ---
-title: Project Views
+title: 3. Project Views
 weight: 1
 ---
 
