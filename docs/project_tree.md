@@ -20,7 +20,7 @@ This branch contains a classified vegetation map for the year 2000 as well as a 
 
 - Existing Vegetation Map 
 
-<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.png" width="200">
+<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.png" width="175">
 
 - RCAT Riparian Vegetation Departure 
 
@@ -32,7 +32,7 @@ This branch contains an active channel layer or the "pre-restoration space". Thi
 
 - Pre-Restoration Space (Active Channel)
 
-<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="250">
+<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="280">
 
 ## Infrastructure Constrained Reaches 
 This branch contains the Risk of Undesireable Dams layer from the Beaver Restoration Assessment Tool (BRAT). This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
@@ -64,7 +64,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
    - Accessible & Inaccessible Valley Bottom
    - Accessible & Inaccessible Valley Bottom 500m (same layer, but segmented by 500m reaches)
 
-<img src="{{ site.baseurl }}/assets/images/Accessible_VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Accessible_VB_leg.png" width="175">
+<img src="{{ site.baseurl }}/assets/images/Accessible_VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Accessible_VB_leg.png" width="150">
  
 **Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
 
@@ -72,7 +72,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
    - Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
    - Forage Area - grazing areas within the valley bottom that could benefit from restoration
 
-<img src="{{ site.baseurl }}/assets/images/Post_Restore.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Post_Res_leg.PNG" width="250">
+<img src="{{ site.baseurl }}/assets/images/Post_Restore.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Post_Res_leg.PNG" width="220">
 
 ## Topography 
 
