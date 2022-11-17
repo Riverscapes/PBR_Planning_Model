@@ -22,7 +22,7 @@ found here: https://riverscapes.net/Data_Warehouses/#riverscape-warehouseconcep
 
 2. Once an account has been created navigate to https://data.riverscapes.net/#/UKUSFWS
 and select PBR from the Project Type dropdown. From here you can download the
-model by selecting the <img src="{{ site.baseurl }}/assets/images/download.PNG" width="15">  icon or view it via WebRAVE using the <img src="{{ site.baseurl }}/assets/images/view.PNG" width="15">  icon.
+model by selecting the <img src="{{ site.baseurl }}/assets/images/download.PNG" width="25">  icon or view it via WebRAVE using the <img src="{{ site.baseurl }}/assets/images/view.PNG" width="25">  icon.
 
 ## Data Visualization 
 
