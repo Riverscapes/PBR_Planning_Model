@@ -6,7 +6,7 @@ weight: 1
 # Project Views 
 Project Views are pre-loaded combinations of layers that can be added to the map. There are currently four project views within the PBR Planning Model which are described below. More project views may be created upon request. 
 
-## Valley Bottom Accessibilty (Default) 
+## Valley Bottom Accessibility (Default) 
 
 The default project view is the Valley Bottom Accessibility view. This project view gives context to the extent of floodplain disconnection along the Sprague due to infrastructure. Layers included are Infrastructure and Valley Bottom Accessibility. 
 
