@@ -3,7 +3,9 @@ title: Project Tree
 weight: 1
 ---
 
-<img class="float-right" src="{{ site.baseurl }}/assets/images/tree.PNG" width="300"> Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
+<img class="float-left" src="{{ site.baseurl }}/assets/images/tree.PNG" width="300"> 
+Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can apply basemaps and access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
+</br>
 
 ## Valley Bottom 
 
@@ -12,7 +14,7 @@ This branch contains valley bottom outputs from the Valley Bottom Extraction Too
 - Valley Bottom (filled)
 - Valley Bottom (hollow)
 
-<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VB_leg.PNG" width="250">
+<img src="{{ site.baseurl }}/assets/images/VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VB_leg.PNG" width="200">
 
 ## Current Riparian Condition 
 
@@ -20,7 +22,7 @@ This branch contains a classified vegetation map for the year 2000 as well as a 
 
 - Existing Vegetation Map 
 
-<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.png" width="235">
+<img src="{{ site.baseurl }}/assets/images/VegMap2000.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/VegMap2000_leg.png" width="175">
 
 - RCAT Riparian Vegetation Departure 
 
@@ -32,14 +34,14 @@ This branch contains an active channel layer or the "pre-restoration space". Thi
 
 - Pre-Restoration Space (Active Channel)
 
-<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="200">
+<img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="280">
 
 ## Infrastructure Constrained Reaches 
 This branch contains the Risk of Undesireable Dams layer from the Beaver Restoration Assessment Tool (BRAT). This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
 
  - BRAT Risk of Undesirable Dams 
 
-<img src="{{ site.baseurl }}/assets/images/Risk.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Risk_leg.PNG" width="200">
+<img src="{{ site.baseurl }}/assets/images/Risk.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Risk_leg.PNG" width="135">
 
 ## Restoration Space 
 
@@ -49,7 +51,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 
    - BRAT Existing Capacity 
 
-<img src="{{ site.baseurl }}/assets/images/ExistingCap.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ExistingCap_leg.png" width="250">
+<img src="{{ site.baseurl }}/assets/images/ExistingCap.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ExistingCap_leg.png" width="265">
 
    - Channel Spanning Structures Appropriate 
 
@@ -59,12 +61,12 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
  
    - Infrastructure
 
-<img src="{{ site.baseurl }}/assets/images/Infrastructure.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Infrastructure_leg.png" width="150">
+<img src="{{ site.baseurl }}/assets/images/Infrastructure.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Infrastructure_leg.png" width="125">
 
    - Accessible & Inaccessible Valley Bottom
    - Accessible & Inaccessible Valley Bottom 500m (same layer, but segmented by 500m reaches)
 
-<img src="{{ site.baseurl }}/assets/images/Accessible_VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Accessible_VB_leg.png" width="200">
+<img src="{{ site.baseurl }}/assets/images/Accessible_VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Accessible_VB_leg.png" width="150">
  
 **Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
 
@@ -72,7 +74,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
    - Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
    - Forage Area - grazing areas within the valley bottom that could benefit from restoration
 
-<img src="{{ site.baseurl }}/assets/images/Post_Restore.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Post_Res_leg.PNG" width="250">
+<img src="{{ site.baseurl }}/assets/images/Post_Restore.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Post_Res_leg.PNG" width="220">
 
 ## Topography 
 
