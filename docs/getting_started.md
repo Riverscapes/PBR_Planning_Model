@@ -28,6 +28,12 @@ model by selecting the <img src="{{ site.baseurl }}/assets/images/download.PNG" 
 
 Once RAVE has been installed and the model has been downloaded, you can add the data to a 
 map by using the RAVE toolbar. 
+
+<img src="{{ site.baseurl }}/assets/images/RVTool.PNG" width="150">
+
 Simply select the green plus icon and navigate to the project.rs file found within the 
 downloaded PBR model folder.
+
+<img src="{{ site.baseurl }}/assets/images/folder.PNG" width="450">
+
 
