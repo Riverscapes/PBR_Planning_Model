@@ -5,7 +5,7 @@ weight: 1
 
 ## RAVE
 
-The PBR model is compatible with the Riverscapes Analysis Viewer and Explorer (RAVE). RAVE 
+The PBR model is compatible with the <a href="https://rave.riverscapes.net/"> Riverscapes Analysis Viewer and Explorer (RAVE).</a> RAVE 
 allows users to add data into their preferred GIS with meaningful layer order and symbology.
 Currently, there are three versions of RAVE - QRAVE for QGIS, ArcRAVE for ArcMap, and 
 WebRAVE. More information and installation instructions can be found at the following links. 
