@@ -9,7 +9,7 @@ Once the model is added to your preferred GIS, you should notice the Riverscapes
 
 ## Valley Bottom 
 
-This branch contains valley bottom outputs from the Valley Bottom Extraction Tool (VBET). 
+This branch contains valley bottom outputs from the <a href="https://rcat.riverscapes.net/Documentation/Version_1.0/VBET.html"> Valley Bottom Extraction Tool (VBET).</a> 
 
 - Valley Bottom (filled)
 - Valley Bottom (hollow)
@@ -18,7 +18,7 @@ This branch contains valley bottom outputs from the Valley Bottom Extraction Too
 
 ## Current Riparian Condition 
 
-This branch contains a classified vegetation map for the year 2000 as well as a Riparian Vegetation Departure (RVD) layer which is an output from the Riparian Condition Assessment Tool (RCAT). 
+This branch contains a classified vegetation map for the year 2000 as well as a Riparian Vegetation Departure (RVD) layer which is an output from the <a href="https://rcat.riverscapes.net/"> Riparian Condition Assessment Tool (RCAT).</a> 
 
 - Existing Vegetation Map 
 
@@ -37,7 +37,7 @@ This branch contains an active channel layer or the "pre-restoration space". Thi
 <img src="{{ site.baseurl }}/assets/images/ActiveChannel.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/ActiveChannel_leg.png" width="280">
 
 ## Infrastructure Constrained Reaches 
-This branch contains the Risk of Undesireable Dams layer from the Beaver Restoration Assessment Tool (BRAT). This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
+This branch contains the Risk of Undesireable Dams layer from the <a href="https://brat.riverscapes.net/"> Beaver Restoration Assessment Tool (BRAT).</a> This layer highlights areas where LT-PBR may have negative effects on the surrounding infrasturcture. 
 
  - BRAT Risk of Undesirable Dams 
 
@@ -57,7 +57,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 
 <img src="{{ site.baseurl }}/assets/images/StrucApprop.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/StrucApprop_leg.png" width="250">
     
-**Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures.
+**Valley Bottom Fragmentation:** This sub-folder contains an Infrastructure dataset along with an Accessible & Inaccessible layer which highlights areas of the valley bottom that have been disconnected due to infrastructure. **Note:** Inaccessible refers to the portion of the valley bottom that is cutoff from the river due to infrasturcture (leeves, elevated roadways,etc.) while Accessible refers to the portion of the valley bottom that could plausably flood but would require installation of instream structures. More information on how this layer is derived can be found <a href="https://rcat.riverscapes.net/Documentation/Version_2.0/RCAT/1-Preprocessing#:~:text=may%20be%20missing.-,Valley%20Bottom%20Preparation,-One%20of%20the"> here.</a>
  
    - Infrastructure
 
