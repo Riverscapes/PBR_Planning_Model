@@ -2,7 +2,7 @@
 title: 4. Manual Delineations 
 weight: 1
 ---
-The following layers were manually delineated using the HAND raster as well as <a href="https://earth.google.com/web/@10.7574218,34.78259653,621a,19577829d,35y,0h,0t,0r/data=Ci4SLBIgOGQ2YmFjYjU2ZDIzMTFlOThiNTM2YjMzNGRiYmRhYTAiCGxheWVyc18w"> Google Imagery.</a> 
+The following layers were manually delineated using the <a href="https://riverscapes.github.io/PBR_Planning_Model/2_project_tree.html#:~:text=within%20this%20branch.-,Height%20Above%20Nearest%20Drainage%20(HAND),-Hillshade"> HAND</a> raster as well as <a href="https://earth.google.com/web/@10.7574218,34.78259653,621a,19577829d,35y,0h,0t,0r/data=Ci4SLBIgOGQ2YmFjYjU2ZDIzMTFlOThiNTM2YjMzNGRiYmRhYTAiCGxheWVyc18w"> Google Imagery.</a> 
 
 - Riparian Wetland Corridor 
 - Off-Channel Rearing Habitat
