@@ -1,5 +1,5 @@
 ---
-title: Manual Delineations 
+title: 4. Manual Delineations 
 weight: 1
 ---
 
