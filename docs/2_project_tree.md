@@ -89,4 +89,4 @@ This branch houses the Height Above Nearest Drainage (HAND) and the hillshade ra
 
 From this branch you can access the Summary Statistics CSV. 
 
-- PBR Summary Stats
+- <a href="/assets/css/Sprague_SummaryStat.csv">PBR Summary Stats</a>
