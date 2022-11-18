@@ -68,7 +68,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 
 <img src="{{ site.baseurl }}/assets/images/Accessible_VB.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Accessible_VB_leg.png" width="150">
  
-**Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portion of the valley bottom that is most likey to be re-connected to the river (lowest elevations) but will require infrastructure removal and installation of instream structures.
+**Potential Post-Restoration Space:** This sub-folder houses manually delineated layers that represent the portions of the valley bottom that are most likey to be affected by infrastructure removal and installation of instream structures.
 
    - Off Channel Rearing Habitat - secondary channels adjacent to the Sprague 
    - Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
