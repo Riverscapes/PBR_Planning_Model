@@ -21,7 +21,7 @@ The Riparian Wetland Corridor represents the lowest lying areas within the valle
 
 The Off-Channel Rearing Habitat layer is an attempt to highlight secondary channels and depressions in the landscape that are adjacent to identified reaches (both connected and abondoned) that could serve as rearing habitat. Google Imagery is used to identify these areas within the RWC. 
 
-<img src="{{ site.baseurl }}/assets/images/OFRH.PNG" width="450">
+<img src="{{ site.baseurl }}/assets/images/OCRH.PNG" width="450">
 
 
 ## Forage Area
