@@ -5,7 +5,7 @@ weight: 1
 
 <img src="{{ site.baseurl }}/assets/images/tree.PNG" width="300"> 
 
-Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can apply basemaps and access individual layers or project views. Below are descriptions of each “branch” and its nested contents. 
+Once the model is added to your preferred GIS, you should notice the Riverscapes toolbar or “Project Tree”. From here users can apply basemaps and access individual layers or <a href="https://riverscapes.github.io/PBR_Planning_Model/3_project_views.html"> project views.</a> Below are descriptions of each “branch” and its nested contents. 
 
 ## Valley Bottom 
 
