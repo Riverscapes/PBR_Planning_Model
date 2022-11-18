@@ -2,31 +2,22 @@
 title: 4. Manual Delineations 
 weight: 1
 ---
+The following layers were manually delineated using the HAND raster as well as <a href="https://earth.google.com/web/@10.7574218,34.78259653,621a,19577829d,35y,0h,0t,0r/data=Ci4SLBIgOGQ2YmFjYjU2ZDIzMTFlOThiNTM2YjMzNGRiYmRhYTAiCGxheWVyc18w"> Google Imagery.</a> 
 
-# Project Views 
-Project Views are pre-loaded combinations of layers that can be added to the map. There are currently four project views within the PBR Planning Model which are described below. More project views may be created upon request. 
+- Riparian Wetland Corridor 
+- Off-Channel Rearing Habitat
+- Forage Area
 
-## Valley Bottom Accessibility (Default) 
 
-The default project view is the Valley Bottom Accessibility view. This project view gives context to the extent of floodplain disconnection along the Sprague due to infrastructure. Layers included are Infrastructure and Valley Bottom Accessibility. 
 
-<img src="{{ site.baseurl }}/assets/images/PV1.PNG" width="450">
 
-## Pre to Post-Restoration 
+## Riparian Wetland Corridor 
 
-This project view is meant to show the potential recovery space that could occur with a combination of infrastructure removal and implimentation of LT-PBR strategies. Layers included are Pre-Restoration Space, Riparian Wetland Corridor, and Off-Channel Rearing Habitat. 
+The Riparian Wetland Corridor represents the lowest lying areas within the valley bottom that are most likely to be reconnected post-restoration. HAND is used to highlight these low-lying areas; this is done by extracting a 0.5 - 1m contour polygon from the raster itself. This gives us a baseline of what will likely be able to flood after restoration has occured. Google imagery is then used to manually refine the polygon by examining other lines of evidence such as oxbows, abandoned channels or areas of inundation that could be indicative of other low-lying areas that fall outside of the extracted contours.   
 
-<img src="{{ site.baseurl }}/assets/images/PV2.PNG" width="450">
+## Off-Channel Rearing Habitat  
 
-## BRAT Existing Dam Capacity 
 
-This project view shows the landscapes ability to support beaver dam building activity. The layer that makes up this view is the BRAT Existing Capacity network. 
+## Forage Area
 
-<img src="{{ site.baseurl }}/assets/images/PV3.PNG" width="450">
-
-## Vegetation Context 
-
-The final project view is meant to give context on the current conditions of riparian vegetation. Layers included are RCAT Riparian Vegetation Departure (RVD) and Vegetation Map (for year 2000). 
-
-<img src="{{ site.baseurl }}/assets/images/PV4.PNG" width="450">
 
