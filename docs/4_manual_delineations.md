@@ -17,6 +17,8 @@ The Riparian Wetland Corridor represents the lowest lying areas within the valle
 
 ## Off-Channel Rearing Habitat  
 
+The Off-Channel Rearing Habitat layer is an attempt to highlight secondary channels (both connected and abondoned) that could serve as rearing habitat. 
+
 
 ## Forage Area
 
