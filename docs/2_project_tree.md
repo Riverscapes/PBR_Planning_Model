@@ -78,7 +78,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 
 ## Topography 
 
-This branch houses the Height Above Nearest Drainage (HAND) raster which represents the vertical distance between a location and its nearest stream. The hillshade can also be located within this branch. 
+This branch houses the Height Above Nearest Drainage (HAND) and the hillshade raster. HAND rasters represent the vertical distance between a location and its nearest stream. See the <a href="https://riverscapes.github.io/PBR_Planning_Model/4_manual_delineations.html"> Manual Delineations</a> page for more information on how HAND is used to delineate low-lying areas within the watershed. 
 
   - Height Above Nearest Drainage (HAND)
   - Hillshade 
