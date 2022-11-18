@@ -30,7 +30,7 @@ This branch contains a classified vegetation map for the year 2000 as well as a 
 
 ## Pre-Treatment Process Space 
 
-This branch contains an active channel layer or the "pre-restoration space". This is meant to give context on the current limitations on floodplain connectivity due to infrastructure. 
+This branch contains an active channel layer or the "pre-restoration space". This is meant to give context on the current limitations of floodplain connectivity due to infrastructure. 
 
 - Pre-Restoration Space (Active Channel)
 

@@ -15,12 +15,18 @@ The following layers were manually delineated using the <a href="https://riversc
 
 The Riparian Wetland Corridor represents the lowest lying areas within the valley bottom that are most likely to be reconnected post-restoration. HAND is used to highlight these low-lying areas; this is done by extracting a 0.5 - 1m contour polygon from the raster itself. This gives us a baseline of what will likely be able to flood after restoration has occured. Google imagery is then used to manually refine the polygon by examining other lines of evidence such as oxbows, abandoned channels or areas of inundation that could be indicative of other low-lying areas that fall outside of the extracted contours.   
 
+<img src="{{ site.baseurl }}/assets/images/RWC.PNG" width="450">
+
 ## Off-Channel Rearing Habitat  
 
-The Off-Channel Rearing Habitat layer is an attempt to highlight secondary channels and depressions in the landscape that are adjacent to identified reaches (both connected and abondoned) that could serve as rearing habitat. Google Imagery is used to identify these areas within the RWC. 
+The Off-Channel Rearing Habitat layer is an attempt to highlight secondary channels and depressions on the landscape (both connected and abondoned) that could serve as rearing habitat. Google Imagery is used to identify these areas within the RWC. 
+
+<img src="{{ site.baseurl }}/assets/images/OCRH.PNG" width="450">
 
 
 ## Forage Area
 
 The Forage Area layer represents grazing areas within the valley bottom, but outside of the Riparian Wetland Corridor that could benefit from restoration. This layer is produced by simply clipping away the RWC layer from the existing <a href="https://riverscapes.github.io/PBR_Planning_Model/2_project_tree.html#:~:text=its%20nested%20contents.-,Valley%20Bottom,-This%20branch%20contains">Valley Bottom layer</a>. 
+
+<img src="{{ site.baseurl }}/assets/images/FA.PNG" width="450">
 
