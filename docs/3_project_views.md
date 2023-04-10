@@ -14,7 +14,7 @@ The default project view is the Valley Bottom Accessibility view. This project v
 
 ## Pre to Post-Restoration 
 
-This project view is meant to show the potential recovery space that could occur with a combination of infrastructure removal and implimentation of LT-PBR strategies. Layers included are Pre-Restoration Space, Riparian Wetland Corridor, and Off-Channel Rearing Habitat. 
+This project view is meant to show the potential recovery space that could occur with a combination of infrastructure removal and implimentation of LT-PBR strategies. Layers included are Pre-Restoration Space, River Wetland Corridor, and Off-Channel Rearing Habitat. 
 
 <img src="{{ site.baseurl }}/assets/images/PV2.PNG" width="450">
 
