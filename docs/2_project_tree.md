@@ -71,7 +71,7 @@ This branch houses three sub-folders: Capacity & Managment, Valley Bottom Fragme
 **Potential Post-Restoration Space:** This sub-folder houses <a href="https://riverscapes.github.io/PBR_Planning_Model/4_manual_delineations.html"> manually delineated layers </a> that represent the portions of the valley bottom that are most likey to be affected by infrastructure removal and installation of instream structures.
 
    - Off Channel Rearing Habitat - secondary channels adjacent to the Sprague 
-   - Riparian Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
+   - River Wetland Corridor - lowest lying areas most likely to be reconnected after restoration 
    - Forage Area - grazing areas within the valley bottom that could benefit from restoration
 
 <img src="{{ site.baseurl }}/assets/images/Post_Restore.PNG" width="450"><img src="{{ site.baseurl }}/assets/images/Post_Res_leg.PNG" width="220">
